@@ -1,1 +1,1 @@
-# plain-text-blog-article
+# plain-blog-article
